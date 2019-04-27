@@ -8,7 +8,6 @@ Create a full stack application.
 
 After completing a short survey, the application will save the new person to the friend table and perform a comptability comparision to potential friends already in the application's friend table. The application will then display the name and image of the person that best fits the current survey taker.
 
-Link to app deployed on Heroku: [friendfinder92](https://friendfinder92.herokuapp.com/)
 
 ## Tools ##
 
